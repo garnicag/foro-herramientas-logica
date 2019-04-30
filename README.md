@@ -148,3 +148,27 @@ alert(`Hola usuario. Tu idioma es el ${idioma}, tu consola es ${consola} y ${res
 [En este enlace se puede ver la aplicación funcionando](https://codepen.io/garnicag/pen/dLLrqR)
 
 Es de notar como también se infiere una respuesta predeterminada que satisfaga los casos que no corresponden a una opción especial.
+
+#### 3. ¿Qué relación tiene el contenido del módulo con lógica difusa? Argumentar (Explique en brevedad lógica difusa, comparación con lógica computacional y explique con sus palabras).
+
+La lógica difusa es aquella que se define a partir de lo relativo a lo observado como posición diferencial. Se diferencia con la lógica computacional en que esta parte de premisas que siempre serán verdaderas o falsas sin importar el contexto donde se aplique.
+
+La relación con el contenido del módulo está dada por el criterio de quien evalúa las premisas. Se basa en cuantificadores expresados de forma "muy", "mucho", "un poco".
+
+##### Premisas de ejemplo:
+
+1. Hace calor si la temperatura es de 18ºC. Para alguien de Bogotá es verdadera la premisa y hace un poco de calor, para alguien de Barranquilla es falsa y hace mucho frío.
+
+2. Va lento alguien en un vehículo andando a 40 KM/h. Si anda en un carro en una autopista, la premisa es verdadera y va muy lento. Si anda en una bicicleta la premisa es falsa y anda muy rápido.
+
+3. Es alta una persona que mide 1.50m. Si es adulto es falso, porque esta un poco debajo de la media de altura. Si es un niño de 8 años es verdadero, porque a su edad esta por encima de la media de altura.
+
+#### 4. ¿Existe alguna relación de lógica difusa, con machine learning e inteligencia artificial? (Explique de manera clara y corta sus ideas)
+
+Machine learning e inteligencia artificial se fundamentan en la lógica difusa. Para ambos casos se establecen iteraciones sobre muestras donde constantemente se van adecuando los valores de referencia de acuerdo a valores promedio según se van ejecutando acciones. De acuerdo a la observación, parametrización y respuesta obtenida, el sistema así establece los valores de referencia para la futura toma de decisiones.
+
+##### Ejemplos:
+
+1. Un programa de ML en Gmail recopila las palabras más usadas por un usuario al momento de redactar correos. Al escribir "Hola amor" es capaz de predecir el nombre de quien va dirigido el mensaje porque en escenarios anteriores dicha frase iba acompañado del mismo nombre.
+
+2. Una IA toma la decisión de bajar la temperatura de un recinto porque es capaz de detectar con varias cámaras a mucha gente que está quitándose los abrigos y chaquetas que llevan puestos. También reconoce el movimiento de la mano al secarse el sudor de la frente.
