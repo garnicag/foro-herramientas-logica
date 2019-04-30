@@ -12,6 +12,7 @@ Como ejemplo un sencillo algoritmo que evalúa las condiciones necesarias para a
 
 Calculadora de subsidios para empleados de bajos ingresos.
 
+```
 1- Si la persona tiene un salario menor a $1'000.000 tiene derecho a un subsidio por el 10% de su salario
 
 2- Si además tiene un hijo menor de 15 años recibirá un 5% adicional, Esto aplica por cada uno de los hijos que cumplan cada una de estas condiciones.
@@ -21,7 +22,7 @@ Calculadora de subsidios para empleados de bajos ingresos.
 4- Si es de estrato 1 recibirá un 10% adicional.
 
 5- Si tiene vivienda propia no tendrá derecho a dichos subsidios.
-
+```
 Para conveniencia se usarán los símbolos de los operadores lógicos de acuerdo a la sintaxis de los lenguajes Java o JavaScript:
 
 ```
@@ -31,6 +32,8 @@ Para conveniencia se usarán los símbolos de los operadores lógicos de acuerdo
 != para "NO EQUIVALENCIA"
 !  para "NOT" o negación
 ```
+
+En código JavaScript la aplicación quedaría así:
 
 ```javascript
 var salario = '500000';
@@ -84,6 +87,8 @@ a. Los videojuegos de disparos están destinados exclusivamente a audiencias adu
 b. Un usuario dice tener 23 años
 c. *Ese usuario no tiene restricciones para jugar videojuegos de disparos*
 ```
+
+En código JavaScript la aplicación quedaría así:
 
 ```javascript
 var pais = 'Francia';
