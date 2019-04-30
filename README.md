@@ -71,17 +71,17 @@ La inferencia lógica es importante en las computación para establecer datos qu
 
 En un foro de discusión sobre videojuegos, las siguientes premisas aplican a los usuarios según la información suministrada durante el registro para completar su perfil y determinar en que sección se ubicará a continuación:
 
-- En Francia se habla francés
-- Un usuario escoge Francia como su país de origen
-- *Ese usuario habla francés*
+-En Francia se habla francés
+-Un usuario escoge Francia como su país de origen
+-*Ese usuario habla francés*
 
-- God of War es un videojuego exclusivo de PS4
-- Un usuario escoge God of War como su videojuego favorito
-- *Ese usuario tiene como consola una PS4*
+-God of War es un videojuego exclusivo de PS4
+-Un usuario escoge God of War como su videojuego favorito
+-*Ese usuario tiene como consola una PS4*
 
-- Los videojuegos de disparos están destinados exclusivamente a audiencias adultas
-- Un usuario dice tener 23 años
-- *Ese usuario no tiene restricciones para jugar videojuegos de disparos*
+-Los videojuegos de disparos están destinados exclusivamente a audiencias adultas
+-Un usuario dice tener 23 años
+-*Ese usuario no tiene restricciones para jugar videojuegos de disparos*
 
 ```javascript
 var pais = 'Francia';
