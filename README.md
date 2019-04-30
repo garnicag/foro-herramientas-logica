@@ -61,11 +61,9 @@ if (salario < salarioMaximo && poseeVivienda == false) {
 
 [En este enlace se puede ver la aplicación funcionando](https://codepen.io/garnicag/pen/axxQQm)
 
-#### 2. *¿Por qué es importante para todo profesional en carreras relacionadas con computación dominar los fundamentos básicos de Inferencia lógica? Dar ejemplos de aplicación (Diagramas de flujo y/o programación).*
+#### 2. *¿Por qué es importante para todo profesional en carreras relacionadas con computación dominar los fundamentos básicos de Inferencia lógica? Dar ejemplos de aplicación (Diagramas de flujo y/o programación).*
 
 La inferencia lógica es importante en las computación para establecer datos que se pueden deducir sin necesidad del uso de preguntas explícitas o del uso extensivo de variables. Dadas dos premisas relacionadas entre sí, se puede llegar a concluir una tercera. Esto ayuda a evitar el uso desmedido de recursos y para tener un código más limpio, legible y por ende más fácil de comprender.
 
 ##### Ejemplo:
-
-
 
