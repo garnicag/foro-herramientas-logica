@@ -1,7 +1,6 @@
 # Herramientas de lógica computacional - Politécnico Grancolombiano
 ## Retos Foro Semanas 5 y 6
-### Gabriel Garnica Gutiérrez
-### Ingeniería de Software
+### Gabriel Garnica Gutiérrez - Ingeniería de Software
 
 #### 1. *¿Por qué es importante para todo profesional en carreras relacionadas con computación dominar los fundamentos básicos de lógica proposicional? Dar ejemplos de aplicación (Diagramas de flujo y/o programación).*
 
