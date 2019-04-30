@@ -1,16 +1,15 @@
-# Herramientas de lógica computacional
-# Politécnico Grancolombiano
-# Retos Foro Semanas 5 y 6
-## Gabriel Garnica Gutiérrez
-## Ingeniería de Software
+# Herramientas de lógica computacional - Politécnico Grancolombiano
+## Retos Foro Semanas 5 y 6
+### Gabriel Garnica Gutiérrez
+### Ingeniería de Software
 
-1. *¿Por qué es importante para todo profesional en carreras relacionadas con computación dominar los fundamentos básicos de lógica proposicional? Dar ejemplos de aplicación (Diagramas de flujo y/o programación).*
+#### 1. *¿Por qué es importante para todo profesional en carreras relacionadas con computación dominar los fundamentos básicos de lógica proposicional? Dar ejemplos de aplicación (Diagramas de flujo y/o programación).*
 
 En las ciencias de la computación, la lógica proposicional forma parte fundamental durante el diseño y programación de una aplicación. Todo comienza con un flujo de trabajo establecido de forma verbal, el cual determina qué comportamiento tendrá la aplicación de acuerdo a ciertas condiciones que se van dando durante su ejecución. Estas condiciones, llamadas algoritmos, evalúan el estado actual de los datos que la aplicación tiene en determinados momentos y de acuerdo a la respuesta se realizan unas u otras acciones subsecuentes.
 
 Como ejemplo un sencillo algoritmo que evalúa las condiciones necesarias para aplicar a un subsidio:
 
-## Premisas
+##### Premisas
 
 1- Si la persona tiene un salario menor a $1'000.000 tiene derecho a un subsidio por el 10% de su salario
 
@@ -63,5 +62,5 @@ if (salario < salarioMaximo && poseeVivienda == false) {
 
 [En este enlace se puede ver la aplicación funcionando](https://codepen.io/garnicag/pen/axxQQm)
 
-2. *¿Por qué es importante para todo profesional en carreras relacionadas con computación dominar los fundamentos básicos de Inferencia lógica? Dar ejemplos de aplicación (Diagramas de flujo y/o programación).*
+#### 2. *¿Por qué es importante para todo profesional en carreras relacionadas con computación dominar los fundamentos básicos de Inferencia lógica? Dar ejemplos de aplicación (Diagramas de flujo y/o programación).*
 
