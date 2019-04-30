@@ -145,4 +145,6 @@ alert(`Hola usuario. Tu idioma es el ${idioma}, tu consola es ${consola} y ${res
 
 ```
 
+[En este enlace se puede ver la aplicación funcionando](https://codepen.io/garnicag/pen/dLLrqR)
+
 Es de notar como también se infiere una respuesta predeterminada que satisfaga los casos que no corresponden a una opción especial.
