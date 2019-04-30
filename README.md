@@ -172,3 +172,7 @@ Machine learning e inteligencia artificial se fundamentan en la lógica difusa. 
 1. Un programa de ML en Gmail recopila las palabras más usadas por un usuario al momento de redactar correos. Al escribir "Hola amor" es capaz de predecir el nombre de quien va dirigido el mensaje porque en escenarios anteriores dicha frase iba acompañado del mismo nombre.
 
 2. Una IA toma la decisión de bajar la temperatura de un recinto porque es capaz de detectar con varias cámaras a mucha gente que está quitándose los abrigos y chaquetas que llevan puestos. También reconoce el movimiento de la mano al secarse el sudor de la frente.
+
+#### Referencias
+
+[Wikipedia - Lógica difusa](https://es.wikipedia.org/wiki/L%C3%B3gica_difusa)
